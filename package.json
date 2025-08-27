@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/admin928/testrepo0#readme",
   "dependencies": {
+    "@dataform/core": "^3.0.27",
     "fs": "^0.0.1-security"
   }
 }
